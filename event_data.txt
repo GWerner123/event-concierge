@@ -1,22 +1,81 @@
-EVENT: 2026 Tulsa Riverfront Music & Arts Expo
-DATE: Saturday, June 20, 2026
-HOURS: 10:00 AM – 11:00 PM
-LOCATION: Tulsa River Parks (Gathering Place area)
-
-MAIN STAGE SCHEDULE:
-- 12:00 PM: Blue River Soul (Jazz/Blues)
-- 3:00 PM: The Tulsa Collective (Indie Folk)
-- 7:00 PM: Oklahoma Sound Orchestra (Headliner)
-- 9:30 PM: Fireworks Finale
-
-VENDOR INFO:
-- Food Trucks: Located at the East Lawn (tacos, BBQ, vegan options)
-- Art Market: Over 50 local artisans on the main walkway
-- Beer Garden: Near the Boathouse (ID required)
-
-LOGISTICS & TIPS:
-- PARKING: Free shuttle from the OSU-Tulsa parking lot every 15 minutes. 
-- PROHIBITED: No glass containers, no weapons, no outside alcohol.
-- PETS: Dogs on leashes are welcome in the park areas.
-- ADA: Accessible viewing area available at the front right of the Main Stage.
-- WEATHER: Rain or shine. Bring sunscreen and a refillable water bottle.
+{
+  "metadata": {
+    "eventName": "Saint Francis Tulsa Tough",
+    "year": 2026,
+    "theme": "King of the Road!",
+    "milestones": "25th Anniversary of the event and 100th anniversary of Route 66"
+  },
+  "overview": {
+    "dates": "June 5th - 7th, 2026",
+    "description": "A three-day party on wheels featuring three days of crits and two days of rides."
+  },
+  "attractions": [
+    "Professional and amateur Criterium Races (Crits)",
+    "AAON Gran Fondo rides with multiple distances",
+    "Kids' races for those nine and under",
+    "Free Townie ride presented by Williams on Sunday",
+    "Corporate Challenge Sportif for company teams"
+  ],
+  "schedule": {
+    "fridayJune5": {
+      "activity": "Registration & Packet Pick-Up for Races and AAON Gran Fondos",
+      "time": "3:00 p.m. – 8:15 p.m."
+    },
+    "saturdayJune6": {
+      "location": "John Hope Franklin Boulevard & 201 N. Elgin Avenue",
+      "timeline": [
+        {
+          "time": "6:00 am",
+          "event": "Check-in Saturday near ride start"
+        },
+        {
+          "time": "7:00 am",
+          "event": "Fondo Rider Staging"
+        },
+        {
+          "time": "7:30 am",
+          "event": "Start time – ACE Peloton"
+        },
+        {
+          "time": "7:40 am",
+          "event": "Start time – Fondo Riders (Gran, Medio, Piccolo)"
+        },
+        {
+          "time": "5:00 pm",
+          "event": "All courses close, route support ends"
+        }
+      ]
+    },
+    "sundayJune7": {
+      "location": "15th Street & Riverside Drive",
+      "timeline": [
+        {
+          "time": "6:00 am",
+          "event": "Check-in Sunday near ride start"
+        },
+        {
+          "time": "7:00 am",
+          "event": "Fondo Rider Staging"
+        },
+        {
+          "time": "7:30 am",
+          "event": "Start time – Fondo Riders (Medio, Piccolo)"
+        },
+        {
+          "time": "2:00 pm",
+          "event": "All courses close, route support ends"
+        }
+      ]
+    }
+  },
+  "rulesAndSafety": [
+    "Riders must stage themselves at the start according to realistic average speed.",
+    "Sweep vehicles will advise slower riders of their option to continue unsupported or SAG to the finish.",
+    "Riders continuing without support relinquish their timing chip."
+  ],
+  "volunteerOpportunities": {
+    "CRIT": "Assisting with the Criterium Races on Friday, Saturday, and Sunday.",
+    "FONDO": "Assisting with the long-distance Fondo Rides on Saturday and Sunday.",
+    "TOWNIE": "Assisting with the Townie Family Ride on Sunday only."
+  }
+}
