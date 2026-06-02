@@ -1,81 +1,37 @@
 {
   "metadata": {
-    "eventName": "Saint Francis Tulsa Tough",
-    "year": 2026,
-    "theme": "King of the Road!",
-    "milestones": "25th Anniversary of the event and 100th anniversary of Route 66"
+    "eventName": "Route 66 Festival: Tales of the Mother Road",
+    "eventDates": "June 2026",
+    "primaryLocation": "Gathering Place, QuikTrip Great Lawn and ONEOK Boathouse, Tulsa",
+    "admissionCost": "Free",
+    "themeOrDescription": "A celebration of Route 66 featuring live music, storytelling, folk dancing, and local vendors."
   },
-  "overview": {
-    "dates": "June 5th - 7th, 2026",
-    "description": "A three-day party on wheels featuring three days of crits and two days of rides."
-  },
-  "attractions": [
-    "Professional and amateur Criterium Races (Crits)",
-    "AAON Gran Fondo rides with multiple distances",
-    "Kids' races for those nine and under",
-    "Free Townie ride presented by Williams on Sunday",
-    "Corporate Challenge Sportif for company teams"
-  ],
   "schedule": {
-    "fridayJune5": {
-      "activity": "Registration & Packet Pick-Up for Races and AAON Gran Fondos",
-      "time": "3:00 p.m. – 8:15 p.m."
-    },
-    "saturdayJune6": {
-      "location": "John Hope Franklin Boulevard & 201 N. Elgin Avenue",
-      "timeline": [
-        {
-          "time": "6:00 am",
-          "event": "Check-in Saturday near ride start"
-        },
-        {
-          "time": "7:00 am",
-          "event": "Fondo Rider Staging"
-        },
-        {
-          "time": "7:30 am",
-          "event": "Start time – ACE Peloton"
-        },
-        {
-          "time": "7:40 am",
-          "event": "Start time – Fondo Riders (Gran, Medio, Piccolo)"
-        },
-        {
-          "time": "5:00 pm",
-          "event": "All courses close, route support ends"
-        }
-      ]
-    },
-    "sundayJune7": {
-      "location": "15th Street & Riverside Drive",
-      "timeline": [
-        {
-          "time": "6:00 am",
-          "event": "Check-in Sunday near ride start"
-        },
-        {
-          "time": "7:00 am",
-          "event": "Fondo Rider Staging"
-        },
-        {
-          "time": "7:30 am",
-          "event": "Start time – Fondo Riders (Medio, Piccolo)"
-        },
-        {
-          "time": "2:00 pm",
-          "event": "All courses close, route support ends"
-        }
-      ]
-    }
+    "festival_Day": [
+      { "time": "Not specified", "activity": "Woody Guthrie Center musical story times and folk sing-alongs", "location": "Main Stage" },
+      { "time": "Not specified", "activity": "Children's book readings by author Annette Murray", "location": "Main Stage" },
+      { "time": "Not specified", "activity": "Agalisiga 'Chuj' Mackey acoustic singer-songwriter set", "location": "Main Stage" },
+      { "time": "Not specified", "activity": "The Oklahoma Swing Syndicate vintage swing dance lessons", "location": "Main Stage" }
+    ]
   },
-  "rulesAndSafety": [
-    "Riders must stage themselves at the start according to realistic average speed.",
-    "Sweep vehicles will advise slower riders of their option to continue unsupported or SAG to the finish.",
-    "Riders continuing without support relinquish their timing chip."
-  ],
-  "volunteerOpportunities": {
-    "CRIT": "Assisting with the Criterium Races on Friday, Saturday, and Sunday.",
-    "FONDO": "Assisting with the long-distance Fondo Rides on Saturday and Sunday.",
-    "TOWNIE": "Assisting with the Townie Family Ride on Sunday only."
-  }
+  "logistics": {
+    "parking": "Not specified",
+    "transportationOrShuttles": "Not specified",
+    "accessibilityADA": "Not specified",
+    "weatherPolicy": "Not specified"
+  },
+  "amenities": {
+    "foodAndDrink": "Frybread Factory, My Okie Heart Pizza, and The Italian Ice Co.",
+    "restrooms": "Not specified",
+    "merchandise": "Across the Prairie, The Nut House, Southwest Trading Company, and local art vendors."
+  },
+  "rules": {
+    "prohibitedItems": [],
+    "petPolicy": "Not specified",
+    "ageRestrictions": "All ages welcome"
+  },
+  "proTips": [
+    "Grab a frozen treat from The Italian Ice Co. to beat the June heat while watching the acoustic sets.",
+    "Arrive early to secure a good spot on the lawn for the children's book readings."
+  ]
 }
